@@ -80,12 +80,12 @@ STOCK-EXCHANGE-ANALYSIS/
 
 ## 📊 Sample Analysis
 ### PEA vs CTO Performance Comparison
-The toolkit demonstrates that for French investors:  
+**The toolkit demonstrates that for French investors:**
 - PEA is advantageous for long-term investments (>5 years)  
 - Tax savings can reach 12.8% (30% CTO vs 17.2% PEA)  
 - DCA strategies significantly reduce timing risk  
 
-Technical Indicators Implemented  
+**Technical Indicators Implemented**  
 - **Trend indicators**: Moving Averages (20, 50, 200 days)  
 - **Momentum indicators**: RSI, MACD  
 - **Volatility indicators**: Bollinger Bands  
@@ -103,7 +103,7 @@ Technical Indicators Implemented
 Full list in requirements.txt.  
 
 ## ⚠️ Disclaimer
-### This software is for educational and research purposes only. It is not financial advice. Past performance does not   guarantee future results. Always consult with a qualified financial advisor before making investment decisions.
+ This software is for educational and research purposes only. It is not financial advice. Past performance does not   guarantee future results. Always consult with a qualified financial advisor before making investment decisions.
 
 ## **Created by Guillaume Stelniceanu** - For educational purposes in financial analysis and Python programming.  
 ## Happy analyzing! 📊💹
