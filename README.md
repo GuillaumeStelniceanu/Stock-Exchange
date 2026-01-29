@@ -55,31 +55,31 @@ STOCK-EXCHANGE-ANALYSIS/
 ├── test.py # Test scripts  
 └── README.md # This file  
 
-### 📚 Key Components Explained  
-# 1. PEA vs CTO Analysis
+## 📚 Key Components Explained  
+### 1. PEA vs CTO Analysis
 - PEA (Plan d'Épargne en Actions): French tax-advantaged account (17.2% tax after 5+ years)  
 - CTO (Compte Titres Ordinaire): Regular brokerage account (30% flat tax)  
 - Features: DCA simulations, tax impact analysis, long-term performance comparison  
 
-# 2. Monte Carlo Simulation
+### 2. Monte Carlo Simulation
 - Simulates 1,000+ possible future price paths  
 - Calculates Value at Risk (VaR) and confidence intervals  
 - Provides probability distributions for investment outcomes  
 
-# 3. Technical Analysis Dashboard
+### 3. Technical Analysis Dashboard
 - Real-time stock data fetching  
 - Multiple technical indicators  
 - Interactive HTML dashboards with Plotly  
 - Export to CSV/Excel for further analysis  
 
-# 4. Portfolio Optimization
+### 4. Portfolio Optimization
 - Modern Portfolio Theory implementation  
 - Risk-return optimization  
 - Correlation analysis between assets  
 - Rebalancing strategy simulations  
 
-### 📊 Sample Analysis
-## PEA vs CTO Performance Comparison
+## 📊 Sample Analysis
+### PEA vs CTO Performance Comparison
 The toolkit demonstrates that for French investors:  
 - PEA is advantageous for long-term investments (>5 years)  
 - Tax savings can reach 12.8% (30% CTO vs 17.2% PEA)  
@@ -92,7 +92,7 @@ Technical Indicators Implemented
 - Volume analysis: Volume trends and confirmation  
 
 ## 🔧 Dependencies
-# The project uses the following key libraries:
+### The project uses the following key libraries:
 
 Data Analysis: pandas, numpy  
 Visualization: plotly, matplotlib, seaborn  
@@ -102,7 +102,7 @@ Scientific Computing: scipy
   
 Full list in requirements.txt.  
 
-# ⚠️ Disclaimer
+## ⚠️ Disclaimer
 This software is for educational and research purposes only. It is not financial advice. Past performance does not   guarantee future results. Always consult with a qualified financial advisor before making investment decisions.
 
-# Created by Guillaume Stelniceanu - For educational purposes in financial analysis and Python programming.  Happy analyzing! 📊💹
+## Created by Guillaume Stelniceanu - For educational purposes in financial analysis and Python programming.  Happy analyzing! 📊💹
