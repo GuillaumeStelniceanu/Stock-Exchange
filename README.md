@@ -86,19 +86,19 @@ The toolkit demonstrates that for French investors:
 - DCA strategies significantly reduce timing risk  
 
 Technical Indicators Implemented  
-- Trend indicators: Moving Averages (20, 50, 200 days)  
-- Momentum indicators: RSI, MACD  
-- Volatility indicators: Bollinger Bands  
-- Volume analysis: Volume trends and confirmation  
+- **Trend indicators**: Moving Averages (20, 50, 200 days)  
+- **Momentum indicators**: RSI, MACD  
+- **Volatility indicators**: Bollinger Bands  
+- **Volume analysis**: Volume trends and confirmation  
 
 ## 🔧 Dependencies
 ### The project uses the following key libraries:
 
-**Data Analysis**: pandas, numpy  
-**Visualization**: plotly, matplotlib, seaborn  
-**Financial Data**: yfinance, twelvedata  
-**GUI Applications**: tkinter  
-**Scientific Computing**: scipy  
+- **Data Analysis**: pandas, numpy  
+- **Visualization**: plotly, matplotlib, seaborn  
+- **Financial Data**: yfinance, twelvedata  
+- **GUI Applications**: tkinter  
+- **Scientific Computing**: scipy  
   
 Full list in requirements.txt.  
 
