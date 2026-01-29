@@ -94,15 +94,16 @@ Technical Indicators Implemented
 ## 🔧 Dependencies
 ### The project uses the following key libraries:
 
-Data Analysis: pandas, numpy  
-Visualization: plotly, matplotlib, seaborn  
-Financial Data: yfinance, twelvedata  
-GUI Applications: tkinter  
-Scientific Computing: scipy  
+**Data Analysis**: pandas, numpy  
+**Visualization**: plotly, matplotlib, seaborn  
+**Financial Data**: yfinance, twelvedata  
+**GUI Applications**: tkinter  
+**Scientific Computing**: scipy  
   
 Full list in requirements.txt.  
 
 ## ⚠️ Disclaimer
-This software is for educational and research purposes only. It is not financial advice. Past performance does not   guarantee future results. Always consult with a qualified financial advisor before making investment decisions.
+### This software is for educational and research purposes only. It is not financial advice. Past performance does not   guarantee future results. Always consult with a qualified financial advisor before making investment decisions.
 
-## Created by Guillaume Stelniceanu - For educational purposes in financial analysis and Python programming.  Happy analyzing! 📊💹
+**Created by Guillaume Stelniceanu** - For educational purposes in financial analysis and Python programming.  
+Happy analyzing! 📊💹
